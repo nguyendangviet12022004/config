@@ -1,0 +1,13 @@
+#build
+build:
+  version: 2.0
+
+#account
+accounts:
+  message: "Welcome to EazyBank cards related qa APIs "
+  contactDetails:
+    name: "Viet Nguyen - Developer"
+    email: "viet@eazybank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
