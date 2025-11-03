@@ -11,3 +11,5 @@ accounts:
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
+  secret:
+    - "{cipher}AYA5/J32plpdkbhEie7mKEHo21FbmgtVkkmaTLC2YdlZfFKmisyi5kXdQVoEdpuT32XVWseRCow2ucSeF0HVT/tgkHrqeNrMknnpvnCDzIz+tWvLUUbJjreF3g76MFTMf1tY2/vzB89muXS/I4T0Lwl5steDqDUydQZ4YJ7zYHNfk+Ru4W7HzKFKgDMlzoNhxbyh6Dk8A8kFxmftIi5gXKvt31KZMrNx9R7XwFXay9ktYBPBgqIcTFQJaGtfU5w+WKJ1F94BRep6hm5j5DTR+vqU2kNIvx4AMiwYjEywvlDgRE/mKSNoqrlEFV2TKmU0r84UfUoNOsnspNt6kaC8EJFvZfLbQwScD/lnmieKKxKFtYfA1c+SbUHzIzexvPJT31hIPlGzSYmAT/GDu5m9dmFemR/bFSzURUruCyFZb9R1CAofBgV+ANJjWJwzmUf0dUiNjm0rp+50kM3swjfc8cnK/rjezv4iFSB1dpTR25cS42ujJRxMNjywNMfLWXnYTI1YdIkrKF7vHE6drqP8mLydSaIsezXKDoY3Lq5ZKNHbng=="
