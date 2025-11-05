@@ -4,7 +4,7 @@ build:
 
 #account
 accounts:
-  message: "Welcome to EazyBank accounts related product APIs v3.0 "
+  message: "Welcome to EazyBank accounts related product APIs v4.0 "
   contactDetails:
     name: "Viet Nguyen - Developer"
     email: "viet@eazybank.com"
