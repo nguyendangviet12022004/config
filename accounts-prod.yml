@@ -4,7 +4,7 @@ build:
 
 #account
 accounts:
-  message: "Welcome to EazyBank accounts related product APIs v4.1 "
+  message: "Welcome to EazyBank accounts related product webhook APIs v4.1 "
   contactDetails:
     name: "Viet Nguyen - Developer"
     email: "viet@eazybank.com"
