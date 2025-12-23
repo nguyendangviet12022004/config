@@ -1,20 +1,5 @@
 server:
   port: 8072
-management:
-  endpoints:
-    web:
-      exposure:
-        include: "*"
-  endpoint:
-    shutdown:
-      access: unrestricted
-    gateway:
-      enabled: true
-  info:
-    env:
-      enabled: true
-    git:
-      enabled: true
 
 eureka:
   instance:
